@@ -1,0 +1,5 @@
+﻿  Account.cpp
+D:\Banking System\Project1\Account.cpp(5,21): error C2084: function 'Account::Account(void)' already has a body
+D:\Banking System\Project1\Account.h(16): message : see previous definition of '{ctor}'
+  main.cpp
+  Generating Code...
